@@ -1,0 +1,61 @@
+html{
+    background-color: #41B3A2;
+}
+
+h1{
+    font-family: "Old Standard TT", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 8rem;
+    text-align: center;
+}
+
+.button{
+    height: 10rem;
+    width: 10rem;
+    font-size: 4rem;
+    border-radius: 20%;
+    border:10px solid #BDE8CA;
+    font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+#buttons{
+    display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+gap: 15px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 170px;
+}
+
+.w{
+    background-image: url(./crash.png);
+}
+.a{
+    background-image: url(./kick.png);
+}
+
+.s{
+    background-image: url(./snare.png);
+}
+.d{
+    background-image: url(./tom1.png);
+}
+.j{
+    background-image: url(./tom2.png);
+}
+.k{
+    background-image: url(./tom3.png);
+}
+.l{
+    background-image: url(./tom4.png);
+}
+.m{
+    background-image: url(./crash.png);
+}
